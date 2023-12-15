@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(image/Blue\ White\ Motivational\ Modern\ Aesthetic\ Sea\ Desktop\ Wallpaper.png);
+    background-position: center;
+    background-size: cover;
+    
+}
+h1{
+    color: black;
+    font-size: 80px;
+    font-weight: 700;
+}
+.desc{
+    color: black;
+    font-size: 35px;
+}
+.quote p{
+    font-size: 35px;
+    color: black;
+}
+#btn:hover{
+    background-color:green;
+    border-color:aqua ;
+}
